@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <title>My Website</title>
+
+</head>
+<body>
+     
+      <br>
+      <center>
+      <h1>HOME</h1>
+      </center>
+      <br>
+      <p>ASSALAMUALAIKUM</p>
+      <p>UNIVERSITI TEKNOLOGI MARA</p>
+      <p>CAWANGAN SUNGAI PETANI</p>
+
+
+</body>
+</html>
+      
